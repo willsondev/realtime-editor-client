@@ -6,7 +6,7 @@ import CodeMirror from '@uiw/react-codemirror';
 import { javascript } from '@codemirror/lang-javascript';
 import { okaidia } from '@uiw/codemirror-theme-okaidia';
 
-const socket = io("http://localhost:3001");
+const socket = io(import.meta.env.VITE_BACKEND_URL);
 
 function EditorPage() {
   const [code, setCode] = useState('');
