@@ -1,3 +1,39 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+/* Solo necesitas definir la fuente que se verá en la capa superior */
+@font-face {
+    font-family: 'Deep Shadow Over';
+    src: url('./assets/fonts/Deep-Shadow-Over.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .titulo-combinado {
+    font-family: 'Deep Shadow Over', sans-serif;
+    font-size: 5rem; 
+    color: #EAEAEA; 
+    line-height: 1.1;
+    
+
+    text-shadow:
+   
+      1px 1px 0px #999999, 
+  
+    
+      6px 6px 0px #444444; 
+  }
+
+  .titulo-combinado1 {
+    font-family: 'Deep Shadow Over', sans-serif;
+    font-size: 2.5rem; 
+ 
+    line-height: 1.1; 
+    
+   
+    text-shadow:
+     
+      1px 1px 0px #999999, 
+  
+    
+      3px 3px 0px #444444; 
+  }
